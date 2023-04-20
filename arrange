@@ -1,0 +1,56 @@
+#!/bin/bash
+
+mv files/a* a
+mv files/A* a
+mv files/b* b
+mv files/B* b
+mv files/c* c
+mv files/C* c
+mv files/d* d
+mv files/D* d
+mv files/e* e
+mv files/E* e
+mv files/f* f
+mv files/F* f
+mv files/g* g
+mv files/G* g
+mv files/h* h
+mv files/H* h
+mv files/i* i
+mv files/I* i
+mv files/j* j
+mv files/J* j
+mv files/k* k
+mv files/K* k
+mv files/l* l
+mv files/L* l
+mv files/m* m
+mv files/M* m
+mv files/n* n
+mv files/N* n
+mv files/o* o
+mv files/O* o
+mv files/p* p
+mv files/P* p
+mv files/q* q
+mv files/Q* q
+mv files/r* r
+mv files/R* r
+mv files/s* s
+mv files/S* s
+mv files/t* t
+mv files/T* t
+mv files/u* u
+mv files/U* u
+mv files/v* v
+mv files/V* v
+mv files/w* w
+mv files/W* w
+mv files/x* x
+mv files/X* x
+mv files/y* y
+mv files/Y* y
+mv files/z* z
+mv files/Z* z
+
+
